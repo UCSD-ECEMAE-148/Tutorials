@@ -1,0 +1,11 @@
+{
+    "calibration_mode": true,
+    "color_detection": {
+        "lower_hue1": 0,
+        "lower_sat1": 0,
+        "lower_val1": 0,
+        "upper_hue1": 255,
+        "upper_sat1": 255,
+        "upper_val1": 255
+    }
+}
